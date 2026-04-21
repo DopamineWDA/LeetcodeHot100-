@@ -2,6 +2,8 @@
 
 本仓库收集了常见的 LeetCode hot 100 算法题解以及常见LLM手撕核心组件的手写实现，旨在帮助开发者巩固基础，深入理解算法与模型原理。
 
+如初学无基础，可对应仓库[Leetcode Hot 100算法详解](https://github.com/DopamineWDA/LeetCode-Hot-100-Algorithm-Explained/tree/main)进行详细算法学习，该仓库按专题分类整理常见高频题，内容不仅包含题目与 Python 题解，也尽量补充了思路拆解、逐行解释、易错点说明和常见疑问解答，适合刷题入门、面试复习和查漏补缺。
+
 ## 目录
 
 - [LeetCode 算法题解](./Code/Leetcode.md)
