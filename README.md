@@ -4,8 +4,8 @@
 
 ## 目录
 
-- [LeetCode 算法题解](Leetcode.md)
-- [经典深度学习手撕实现](经典手撕.md)
+- [LeetCode 算法题解](./Code/Leetcode.md)
+- [经典深度学习手撕实现](./Code/经典手撕.md)
 
 ---
 
@@ -17,7 +17,7 @@
 - **常用算法技巧**：双指针、滑动窗口、子串处理。
 - **高级算法**：回溯、二分查找、动态规划、贪心算法、图论。
 
-查看详情：[Leetcode.md](./Leetcode.md)
+查看详情：[Leetcode.md](./Code/Leetcode.md)
 
 ### 2. 经典深度学习手撕实现
 包含了大模型（LLM）及深度学习中常用的核心组件与损失函数的手写实现（基于 PyTorch）：
@@ -25,7 +25,7 @@
 - **归一化与激活函数**：LayerNorm、RMSNorm、Sigmoid、ReLU、SwiGLU 等。
 - **损失函数与强化学习**：Cross Entropy、KL Divergence、PPO Loss、DPO Loss、GRPO Loss 等。
 
-查看详情：[经典手撕.md](./经典手撕.md)
+查看详情：[经典手撕.md](./Code/经典手撕.md)
 
 ---
 
